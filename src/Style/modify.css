@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&family=Orbitron&family=Turret+Road&display=swap');
+table {
+  font-weight: bolder;
+  font-family: 'Bruno Ace', cursive;
+font-family: 'Monomaniac One', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Turret Road', cursive;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(odd) {
+    background-color: #967272;
+  }
+
+.modify-stream{
+    border: 3px solid white;
+    padding: 10px;
+    margin-left: 170px;
+    margin-right: 170px;
+    height: auto;
+  }

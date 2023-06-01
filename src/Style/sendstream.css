@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&family=Orbitron&display=swap');
+.sendstream-page{
+    font-family: 'Bruno Ace', cursive;
+    font-family: 'Monomaniac One', sans-serif;
+font-family: 'Orbitron', sans-serif;
+    /* border: 1px solid white; */
+    margin-left: 180px;
+    margin-right: 200px;
+    height: 700px;
+    margin-bottom: 40px ;
+}
+
+.createstream-form{
+    color: rgb(21, 3, 3);
+    font-size: 22px;
+    border-radius: 12px;
+    /* border: 1px solid white; */
+    padding: 10px;
+
+}
+.form-stream{
+    border-radius: 40px;
+    /* background-color: #E893CF; */
+    background-color: #FFDEB4;
+}
+
+label{
+    margin: 10px;
+}
+
+.heading-stream{
+    margin-top: 5px;
+    color: black;
+    margin-left: 430px;
+
+}
+
+.heading{
+    color: black;
+}
+
+.submit-stream{
+    margin-left: 20px;
+    padding-left: 240px ;
+}
+
+.submit-stream-btn{
+    padding: 18px;
+    width: 400px;
+    margin: 30px;
+    font-size: 20px;
+    border-radius: 50px;
+    background-color:#3A98B9;
+    color: white;
+}
+
+.submit-stream-btn:hover{
+    background-color: #bcbad3;
+    font-size: 22px;
+    /* color: white; */
+}
+.value-wallet{
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+    width: 900px;
+}
+.form{
+    /* border: 1px solid white; */
+    align-items: center;
+    margin: auto;
+    max-width: fit-content;
+}
+
+.schedule-stream{
+    font-size: 30px;
+    align-items: center;
+    margin: auto;
+    max-width: fit-content;
+}
+.sub-form-i{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.sub-form-i-i{
+    margin: 10px;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.sub-form-value{
+    border-radius: 5px;
+    padding: 10px;
+}

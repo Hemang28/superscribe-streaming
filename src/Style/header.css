@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&family=Orbitron:wght@600&display=swap');
+.navbar {
+  width: 98%;
+  /* margin: auto; */
+    height: 90px;
+    padding: 10px;
+    background-color: #B0DAFF;
+  }
+
+  .main-navbar{
+
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    /* max-width: max-content; */
+  }
+
+  .navbar-left{
+    display: flex;
+    justify-content: content;
+    align-items: center;
+  }
+  
+  .navbar-left .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-image {
+    margin-bottom: 35px;
+    margin-top: 16px;
+    border-radius: 36px;
+    width: 78px;
+    margin-left: 13px;
+  }
+  
+  .logo-title {
+    font-family: 'Bruno Ace', cursive;
+font-family: 'Monomaniac One', sans-serif;
+font-family: 'Orbitron', sans-serif;
+    margin-bottom: 42px;
+    font-size: 45px;
+    margin-left: 40px;
+    font-weight: 800;
+    /* color: #fff; */
+    color: #131030;
+    color: linear-gradient(270deg, rgb(248, 121, 182) 0px, rgb(153, 130, 237)); 
+    /* background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4)); */
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  div.navbar-right{
+    display:flex;
+    /* position: relative;
+    left: 20cm;
+    top: 6px; */
+
+  }
+  
+  
+  .navbar-right .connect-button {
+    margin-top: 50px;
+    font-weight: 500;
+    margin-bottom: 14px;
+    /* padding: 8px 16p x; */
+    font-size: 20px;
+    background-color: #302b63;
+    /* background: linear-gradient(270deg, rgb(248, 121, 182) 0px, rgb(153, 130, 237));  */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 26px;
+    position: relative;
+    top: -24px;
+    width: 170px;
+    /* padding: 10px; */
+
+    
+}
+
+.wallet-btn-metamask{
+  margin-bottom: 23px;
+  /* background-color: white; */
+  color: #302b63;
+
+}
+
+.profile-logo {
+  margin-right: auto;
+  width: 46px;
+  height: 48px;
+  border-radius: 50%;
+  border-radius: 113px;
+  /* border: 1px solid black; */
+  /* margin-right: 25px; */
+  padding: 10px;
+  margin-top: 6px;
+
+}
+
+.main-navbar{
+  display: flex;
+  justify-content: space-between;
+}
+.s{
+  border: 1px solid white;
+}

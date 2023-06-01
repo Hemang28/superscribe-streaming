@@ -1,0 +1,37 @@
+.container{
+    border: 3px solid white;
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    /* margin-top:10px; */
+    border-radius: 10px;
+    height: 400px;
+}
+
+.main-super{
+    border: 3px solid white;
+    color: white;
+    margin-left: 350px;
+    margin-right: 150px;
+    /* border-radius: 10px; */
+    height: 350px;
+    margin-top: 20px;
+    width: 500px;
+
+}
+
+.wwrap{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.wrap{
+
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.wrap-unwrap{
+    display: flex;
+}

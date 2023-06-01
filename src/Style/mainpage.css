@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Monomaniac+One&family=Orbitron&display=swap');
+.heading-mainpage{
+    font-family: 'Bruno Ace', cursive;
+font-family: 'Monomaniac One', sans-serif;
+font-family: 'Orbitron', sans-serif;
+    color: white;
+    align-items: center;
+    margin: auto;
+    max-width: fit-content;
+    font-size: larger;
+    margin-bottom: 50px;
+}
+
+.btn-option{
+    font-family: 'Bruno Ace', cursive;
+font-family: 'Monomaniac One', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Turret Road', cursive;
+    margin: 5px;
+    padding: 15px;
+    background-color: white;
+    color: #302b63;
+    font-size: 20px;
+    border-radius: 25px;
+    font-weight:bolder;
+    text-decoration: none;
+}
+
+.btn-option:focus{
+    background-color: rgba(155, 85, 85, 0.854);
+    color: white;
+
+}
+
+.option{
+    margin-left: 170px;
+    margin-bottom: 30px;
+}
+
+.btn-option:hover{
+    background-color: #81808a;
+    color: rgb(252, 249, 249);
+    font-size: 22px;
+
+}

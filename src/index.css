@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  /* background-image: radial-gradient(circle, #aec3e2, #8198c4, #596ea6, #364587, #151e66); */
+  /* background-image: linear-gradient(to right, #b6fbff, #83a4d4); */
+
+  /* background-size: contain;
+  background: rgb(131,58,180);
+background: linear-gradient(27deg, rgba(131,58,180,1) 0%, rgba(168,29,253,0.9837184873949579) 50%, rgba(252,176,69,1) 100%); */
+  /* background-attachment:scroll;
+  height:100vh;
+  background-size: cover;
+  background-image: url("./2256530-ai\(1\).jpg");
+  background-repeat: no-repeat; */
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
